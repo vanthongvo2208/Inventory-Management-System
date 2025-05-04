@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
+
+Step 1: Run "setup_database.py" In this file please change the link to the "Online Sales Data.csv" file on your computer so it can upload the data for the tables.
+Step 2: Run "database.py" 
+Step 3: Run "Main.py"
+Step 4: login: Username: account, Password: password

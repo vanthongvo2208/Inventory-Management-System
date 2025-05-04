@@ -1,0 +1,241 @@
+Product ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Initial_Quantity
+10001,1/1/2024,Electronics,iPhone 14 Pro,45,999.99,44999.55,100
+10002,1/2/2024,Home Appliances,Dyson V11 Vacuum,46,499.99,22999.54,100
+10003,1/3/2024,Clothing,Levi's 501 Jeans,65,69.99,4549.35,100
+10004,1/4/2024,Books,The Da Vinci Code,87,15.99,1391.13,100
+10005,1/5/2024,Beauty Products,Neutrogena Skincare Set,33,89.99,2969.67,100
+10006,1/6/2024,Sports,Wilson Evolution Basketball,76,29.99,2279.24,100
+10007,1/7/2024,Electronics,MacBook Pro 16-inch,62,2499.99,154999.38,100
+10008,1/8/2024,Home Appliances,Blueair Classic 480i,5,599.99,2999.95,100
+10009,1/9/2024,Clothing,Nike Air Force 1,13,89.99,1169.87,100
+10010,1/10/2024,Books,Dune by Frank Herbert,85,25.99,2209.15,100
+10011,1/11/2024,Beauty Products,Chanel No. 5 Perfume,78,129.99,10139.22,100
+10012,1/12/2024,Sports,Babolat Pure Drive Tennis Racket,5,199.99,999.95,100
+10013,1/13/2024,Electronics,Samsung Galaxy Tab S8,54,749.99,40499.46,100
+10014,1/14/2024,Home Appliances,Keurig K-Elite Coffee Maker,82,189.99,15579.18,100
+10015,1/15/2024,Clothing,North Face Down Jacket,14,249.99,3499.86,100
+10016,1/16/2024,Books,"Salt, Fat, Acid, Heat by Samin Nosrat",23,35.99,827.77,100
+10017,1/17/2024,Beauty Products,Dyson Supersonic Hair Dryer,79,399.99,31599.21,100
+10018,1/18/2024,Sports,Manduka PRO Yoga Mat,44,119.99,5279.56,100
+10019,1/19/2024,Electronics,Garmin Forerunner 945,42,499.99,20999.58,100
+10020,1/20/2024,Home Appliances,Ninja Professional Blender,76,99.99,7599.24,100
+10021,1/21/2024,Clothing,Zara Summer Dress,87,59.99,5219.13,100
+10022,1/22/2024,Books,Gone Girl by Gillian Flynn,66,22.99,1517.34,100
+10023,1/23/2024,Beauty Products,Olay Regenerist Face Cream,50,49.99,2499.5,100
+10024,1/24/2024,Sports,Adidas FIFA World Cup Football,71,29.99,2129.29,100
+10025,1/25/2024,Electronics,Bose QuietComfort 35 Headphones,31,299.99,9299.69,100
+10026,1/26/2024,Home Appliances,Panasonic NN-SN966S Microwave,22,179.99,3959.78,100
+10027,1/27/2024,Clothing,Adidas Ultraboost Shoes,79,179.99,14219.21,100
+10028,1/28/2024,Books,Pride and Prejudice by Jane Austen,5,12.99,64.95,100
+10029,1/29/2024,Beauty Products,MAC Ruby Woo Lipstick,24,29.99,719.76,100
+10030,1/30/2024,Sports,Nike Air Zoom Pegasus 37,69,129.99,8969.31,100
+10031,1/31/2024,Electronics,Sony WH-1000XM4 Headphones,56,349.99,19599.44,100
+10032,2/1/2024,Home Appliances,Instant Pot Duo,27,89.99,2429.73,100
+10033,2/2/2024,Clothing,Under Armour HeatGear T-Shirt,19,29.99,569.81,100
+10034,2/3/2024,Books,1984 by George Orwell,63,19.99,1259.37,100
+10035,2/4/2024,Beauty Products,L'Oreal Revitalift Serum,92,39.99,3679.08,100
+10036,2/5/2024,Sports,Peloton Bike,73,1895,138335,100
+10037,2/6/2024,Electronics,Apple Watch Series 8,74,399.99,29599.26,100
+10038,2/7/2024,Home Appliances,Roomba i7+,68,799.99,54399.32,100
+10039,2/8/2024,Clothing,Columbia Fleece Jacket,98,59.99,5879.02,100
+10040,2/9/2024,Books,Harry Potter and the Sorcerer's Stone,70,24.99,1749.3,100
+10041,2/10/2024,Beauty Products,Estee Lauder Advanced Night Repair,17,105,1785,100
+10042,2/11/2024,Sports,Fitbit Charge 5,43,129.99,5589.57,100
+10043,2/12/2024,Electronics,GoPro HERO10 Black,0,399.99,0,100
+10044,2/13/2024,Home Appliances,Nespresso VertuoPlus,18,199.99,3599.82,100
+10045,2/14/2024,Clothing,Patagonia Better Sweater,88,139.99,12319.12,100
+10046,2/15/2024,Books,Becoming by Michelle Obama,37,32.5,1202.5,100
+10047,2/16/2024,Beauty Products,Clinique Moisture Surge,39,52,2028,100
+10048,2/17/2024,Sports,Yeti Rambler Tumbler,32,39.99,1279.68,100
+10049,2/18/2024,Electronics,Kindle Paperwhite,95,129.99,12349.05,100
+10050,2/19/2024,Home Appliances,Breville Smart Oven,52,299.99,15599.48,100
+10051,2/20/2024,Clothing,Ray-Ban Aviator Sunglasses,87,154.99,13484.13,100
+10052,2/21/2024,Books,The Silent Patient by Alex Michaelides,56,26.99,1511.44,100
+10053,2/22/2024,Beauty Products,Shiseido Ultimate Sun Protector,74,49,3626,100
+10054,2/23/2024,Sports,Titleist Pro V1 Golf Balls,40,49.99,1999.6,100
+10055,2/24/2024,Electronics,Anker PowerCore Portable Charger,28,59.99,1679.72,100
+10056,2/25/2024,Home Appliances,KitchenAid Artisan Stand Mixer,8,499.99,3999.92,100
+10057,2/26/2024,Clothing,Calvin Klein Boxer Briefs,21,29.99,629.79,100
+10058,2/27/2024,Books,Educated by Tara Westover,46,28,1288,100
+10059,2/28/2024,Beauty Products,Anastasia Beverly Hills Brow Wiz,84,23,1932,100
+10060,2/29/2024,Sports,Hyperice Hypervolt Massager,46,349,16054,100
+10061,3/1/2024,Electronics,Nintendo Switch,94,299.99,28199.06,100
+10062,3/2/2024,Home Appliances,Philips Airfryer XXL,75,199.99,14999.25,100
+10063,3/3/2024,Clothing,Hanes ComfortSoft T-Shirt,63,9.99,629.37,100
+10064,3/4/2024,Books,Where the Crawdads Sing by Delia Owens,63,18.99,1196.37,100
+10065,3/5/2024,Beauty Products,Lancome La Vie Est Belle,96,102,9792,100
+10066,3/6/2024,Sports,Garmin Edge 530,84,299.99,25199.16,100
+10067,3/7/2024,Electronics,Samsung QLED 4K TV,96,1199.99,115199.04,100
+10068,3/8/2024,Home Appliances,Eufy RoboVac 11S,57,219.99,12539.43,100
+10069,3/9/2024,Clothing,Puma Suede Classic Sneakers,86,59.99,5159.14,100
+10070,3/10/2024,Books,The Great Gatsby by F. Scott Fitzgerald,12,10.99,131.88,100
+10071,3/11/2024,Beauty Products,Drunk Elephant C-Firma Day Serum,99,78,7722,100
+10072,3/12/2024,Sports,Nike Metcon 6,31,129.99,4029.69,100
+10073,3/13/2024,Electronics,HP Spectre x360 Laptop,92,1599.99,147199.08,100
+10074,3/14/2024,Home Appliances,De'Longhi Magnifica Espresso Machine,90,899.99,80999.1,100
+10075,3/15/2024,Clothing,Tommy Hilfiger Polo Shirt,2,49.99,99.98,100
+10076,3/16/2024,Books,To Kill a Mockingbird by Harper Lee,65,14.99,974.35,100
+10077,3/17/2024,Beauty Products,Glossier Boy Brow,100,16,1600,100
+10078,3/18/2024,Sports,Rogue Fitness Kettlebell,3,69.99,209.97,100
+10079,3/19/2024,Electronics,Apple AirPods Pro,39,249.99,9749.61,100
+10080,3/20/2024,Home Appliances,Dyson Pure Cool Link,61,499.99,30499.39,100
+10081,3/21/2024,Clothing,Levi's Trucker Jacket,64,89.99,5759.36,100
+10082,3/22/2024,Books,The Hobbit by J.R.R. Tolkien,18,12.99,233.82,100
+10083,3/23/2024,Beauty Products,Charlotte Tilbury Magic Cream,15,100,1500,100
+10084,3/24/2024,Sports,Spalding NBA Street Basketball,2,24.99,49.98,100
+10085,3/25/2024,Electronics,Ring Video Doorbell,76,99.99,7599.24,100
+10086,3/26/2024,Home Appliances,LG OLED TV,99,1299.99,128699.01,100
+10087,3/27/2024,Clothing,Uniqlo Ultra Light Down Jacket,98,79.99,7839.02,100
+10088,3/28/2024,Books,The Catcher in the Rye by J.D. Salinger,32,13.99,447.68,100
+10089,3/29/2024,Beauty Products,Sunday Riley Good Genes,4,105,420,100
+10090,3/30/2024,Sports,On Running Cloud Shoes,13,129.99,1689.87,100
+10091,3/31/2024,Electronics,Logitech MX Master 3 Mouse,59,99.99,5899.41,100
+10092,4/1/2024,Home Appliances,Instant Pot Duo Crisp,63,179.99,11339.37,100
+10093,4/2/2024,Clothing,Adidas Originals Superstar Sneakers,12,79.99,959.88,100
+10094,4/3/2024,Books,The Alchemist by Paulo Coelho,63,14.99,944.37,100
+10095,4/4/2024,Beauty Products,Tatcha The Water Cream,59,68,4012,100
+10096,4/5/2024,Sports,Garmin Fenix 6X Pro,44,999.99,43999.56,100
+10097,4/6/2024,Electronics,Bose SoundLink Revolve+ Speaker,99,299.99,29699.01,100
+10098,4/7/2024,Home Appliances,Vitamix Explorian Blender,72,349.99,25199.28,100
+10099,4/8/2024,Clothing,Gap Essential Crewneck T-Shirt,30,19.99,599.7,100
+10100,4/9/2024,Books,The Power of Now by Eckhart Tolle,87,12.99,1130.13,100
+10101,4/10/2024,Beauty Products,Kiehl's Midnight Recovery Concentrate,46,82,3772,100
+10102,4/11/2024,Sports,Under Armour HOVR Sonic 4 Shoes,67,109.99,7369.33,100
+10103,4/12/2024,Electronics,Canon EOS R5 Camera,2,3899.99,7799.98,100
+10104,4/13/2024,Home Appliances,Shark IQ Robot Vacuum,51,349.99,17849.49,100
+10105,4/14/2024,Clothing,H&M Slim Fit Jeans,56,39.99,2239.44,100
+10106,4/15/2024,Books,The Girl on the Train by Paula Hawkins,11,10.99,120.89,100
+10107,4/16/2024,Beauty Products,The Ordinary Niacinamide Serum,15,6.5,97.5,100
+10108,4/17/2024,Sports,Bowflex SelectTech 552 Dumbbells,34,399.99,13599.66,100
+10109,4/18/2024,Electronics,Google Nest Hub Max,96,229.99,22079.04,100
+10110,4/19/2024,Home Appliances,Cuisinart Griddler Deluxe,88,159.99,14079.12,100
+10111,4/20/2024,Clothing,Old Navy Relaxed-Fit T-Shirt,36,14.99,539.64,100
+10112,4/21/2024,Books,Sapiens: A Brief History of Humankind by Yuval Noah Harari,84,18.99,1595.16,100
+10113,4/22/2024,Beauty Products,Biore UV Aqua Rich Watery Essence Sunscreen,93,15,1395,100
+10114,4/23/2024,Sports,Fitbit Versa 3,10,229.95,2299.5,100
+10115,4/24/2024,Electronics,Amazon Echo Show 10,93,249.99,23249.07,100
+10116,4/25/2024,Home Appliances,Breville Smart Grill,96,299.95,28795.2,100
+10117,4/26/2024,Clothing,Gap High Rise Skinny Jeans,32,49.99,1599.68,100
+10118,4/27/2024,Books,Atomic Habits by James Clear,36,16.99,611.64,100
+10119,4/28/2024,Beauty Products,CeraVe Hydrating Facial Cleanser,38,14.99,569.62,100
+10120,4/29/2024,Sports,YETI Hopper Flip Portable Cooler,4,249.99,999.96,100
+10121,4/30/2024,Electronics,Apple iPad Air,11,599.99,6599.89,100
+10122,5/1/2024,Home Appliances,Hamilton Beach FlexBrew Coffee Maker,72,89.99,6479.28,100
+10123,5/2/2024,Clothing,Forever 21 Graphic Tee,29,12.99,376.71,100
+10124,5/3/2024,Books,The Subtle Art of Not Giving a F*ck by Mark Manson,72,14.99,1079.28,100
+10125,5/4/2024,Beauty Products,NARS Radiant Creamy Concealer,56,30,1680,100
+10126,5/5/2024,Sports,Yeti Roadie 24 Cooler,9,199.99,1799.91,100
+10127,5/6/2024,Electronics,Sony PlayStation 5,16,499.99,7999.84,100
+10128,5/7/2024,Home Appliances,Dyson Supersonic Hair Dryer,11,399.99,4399.89,100
+10129,5/8/2024,Clothing,Lululemon Align Leggings,64,98,6272,100
+10130,5/9/2024,Books,The Four Agreements by Don Miguel Ruiz,61,8.99,548.39,100
+10131,5/10/2024,Beauty Products,Fenty Beauty Killawatt Highlighter,32,36,1152,100
+10132,5/11/2024,Sports,Hydro Flask Wide Mouth Water Bottle,70,39.95,2796.5,100
+10133,5/12/2024,Electronics,Microsoft Surface Laptop 4,78,1299.99,101399.22,100
+10134,5/13/2024,Home Appliances,Keurig K-Mini Coffee Maker,53,79.99,4239.47,100
+10135,5/14/2024,Clothing,Gap Crewneck Sweatshirt,85,34.99,2974.15,100
+10136,5/15/2024,Books,Think and Grow Rich by Napoleon Hill,33,9.99,329.67,100
+10137,5/16/2024,Beauty Products,The Ordinary Hyaluronic Acid Serum,57,6.8,387.6,100
+10138,5/17/2024,Sports,Fitbit Inspire 2,39,99.95,3898.05,100
+10139,5/18/2024,Electronics,Samsung Odyssey G9 Gaming Monitor,58,1499.99,86999.42,100
+10140,5/19/2024,Home Appliances,Instant Pot Ultra,81,139.99,11339.19,100
+10141,5/20/2024,Clothing,Adidas Essential Track Pants,99,44.99,4454.01,100
+10142,5/21/2024,Books,The Power of Habit by Charles Duhigg,38,11.99,455.62,100
+10143,5/22/2024,Beauty Products,Clinique Dramatically Different Moisturizing Lotion,93,29.5,2743.5,100
+10144,5/23/2024,Sports,YETI Tundra 45 Cooler,65,299.99,19499.35,100
+10145,5/24/2024,Electronics,Apple AirPods Max,91,549,49959,100
+10146,5/25/2024,Home Appliances,Cuisinart Coffee Center,55,199.95,10997.25,100
+10147,5/26/2024,Clothing,Levi's Sherpa Trucker Jacket,97,98,9506,100
+10148,5/27/2024,Books,The Outsiders by S.E. Hinton,74,10.99,813.26,100
+10149,5/28/2024,Beauty Products,Laneige Water Sleeping Mask,85,25,2125,100
+10150,5/29/2024,Sports,Bose SoundSport Wireless Earbuds,32,149.99,4799.68,100
+10151,5/30/2024,Electronics,Sony WH-1000XM4 Headphones,9,349.99,3149.91,100
+10152,5/31/2024,Home Appliances,Ninja Foodi Pressure Cooker,41,199.99,8199.59,100
+10153,6/1/2024,Clothing,Nike Sportswear Club Fleece Hoodie,38,54.99,2089.62,100
+10154,6/2/2024,Books,The Night Circus by Erin Morgenstern,59,16.99,1002.41,100
+10155,6/3/2024,Beauty Products,GlamGlow Supermud Clearing Treatment,67,59,3953,100
+10156,6/4/2024,Sports,Garmin Forerunner 245,26,299.99,7799.74,100
+10157,6/5/2024,Electronics,Google Pixel 6 Pro,28,899.99,25199.72,100
+10158,6/6/2024,Home Appliances,Breville Nespresso Creatista Plus,65,499.95,32496.75,100
+10159,6/7/2024,Clothing,Under Armour Tech 2.0 T-Shirt,81,24.99,2024.19,100
+10160,6/8/2024,Books,The Art of War by Sun Tzu,75,7.99,599.25,100
+10161,6/9/2024,Beauty Products,Youth to the People Superfood Antioxidant Cleanser,91,36,3276,100
+10162,6/10/2024,Sports,TriggerPoint GRID Foam Roller,22,34.99,769.78,100
+10163,6/11/2024,Electronics,Apple MacBook Air,96,1199.99,115199.04,100
+10164,6/12/2024,Home Appliances,Cuisinart Custom 14-Cup Food Processor,37,199.99,7399.63,100
+10165,6/13/2024,Clothing,Adidas 3-Stripes Shorts,39,29.99,1169.61,100
+10166,6/14/2024,Books,The Hunger Games by Suzanne Collins,43,8.99,386.57,100
+10167,6/15/2024,Beauty Products,Neutrogena Hydro Boost Water Gel,68,16.99,1155.32,100
+10168,6/16/2024,Sports,Yeti Rambler Bottle,42,49.99,2099.58,100
+10169,6/17/2024,Electronics,Samsung Odyssey G7 Gaming Monitor,68,699.99,47599.32,100
+10170,6/18/2024,Home Appliances,Instant Pot Duo Evo Plus,8,139.99,1119.92,100
+10171,6/19/2024,Clothing,Nike Tempo Running Shorts,78,34.99,2729.22,100
+10172,6/20/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,13,9.99,129.87,100
+10173,6/21/2024,Beauty Products,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant,53,29.5,1563.5,100
+10174,6/22/2024,Sports,Bowflex SelectTech 1090 Adjustable Dumbbells,15,699.99,10499.85,100
+10175,6/23/2024,Electronics,Amazon Fire TV Stick 4K,15,49.99,749.85,100
+10176,6/24/2024,Home Appliances,Crock-Pot 6-Quart Slow Cooker,12,49.99,599.88,100
+10177,6/25/2024,Clothing,Uniqlo Airism Mesh Boxer Briefs,20,14.9,298,100
+10178,6/26/2024,Books,The Sun Also Rises by Ernest Hemingway,85,11.99,1019.15,100
+10179,6/27/2024,Beauty Products,First Aid Beauty Ultra Repair Cream,99,34,3366,100
+10180,6/28/2024,Sports,Oakley Holbrook Sunglasses,32,146,4672,100
+10181,6/29/2024,Electronics,Google Pixelbook Go,76,649.99,49399.24,100
+10182,6/30/2024,Home Appliances,Dyson V8 Absolute,96,399.99,38399.04,100
+10183,7/1/2024,Clothing,Levi's 511 Slim Fit Jeans,100,59.99,5999,100
+10184,7/2/2024,Books,The Martian by Andy Weir,33,12.99,428.67,100
+10185,7/3/2024,Beauty Products,La Mer Crème de la Mer Moisturizer,55,190,10450,100
+10186,7/4/2024,Sports,Polar Vantage V2,15,499.95,7499.25,100
+10187,7/5/2024,Electronics,Sonos Beam Soundbar,24,399,9576,100
+10188,7/6/2024,Home Appliances,Anova Precision Cooker,16,199,3184,100
+10189,7/7/2024,Clothing,Nike Dri-FIT Training Shorts,11,34.99,384.89,100
+10190,7/8/2024,Books,The Catcher in the Rye by J.D. Salinger,89,10.99,978.11,100
+10191,7/9/2024,Beauty Products,Glossier Cloud Paint,77,18,1386,100
+10192,7/10/2024,Sports,TRX All-in-One Suspension Training System,24,169.95,4078.8,100
+10193,7/11/2024,Electronics,Logitech G Pro X Wireless Gaming Headset,59,199.99,11799.41,100
+10194,7/12/2024,Home Appliances,Breville Smart Coffee Grinder Pro,100,199.95,19995,100
+10195,7/13/2024,Clothing,Adidas Ultraboost Running Shoes,18,179.99,3239.82,100
+10196,7/14/2024,Books,The Road by Cormac McCarthy,48,11.99,575.52,100
+10197,7/15/2024,Beauty Products,Tom Ford Black Orchid Perfume,40,125,5000,100
+10198,7/16/2024,Sports,GoPro HERO9 Black,85,449.99,38249.15,100
+10199,7/17/2024,Electronics,Apple TV 4K,80,179,14320,100
+10200,7/18/2024,Home Appliances,Instant Pot Duo Nova,77,99.95,7696.15,100
+10201,7/19/2024,Clothing,Gap 1969 Original Fit Jeans,78,59.99,4679.22,100
+10202,7/20/2024,Books,The Goldfinch by Donna Tartt,51,14.99,764.49,100
+10203,7/21/2024,Beauty Products,Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment,28,52,1456,100
+10204,7/22/2024,Sports,Yeti Tundra Haul Portable Wheeled Cooler,21,399.99,8399.79,100
+10205,7/23/2024,Electronics,Samsung Galaxy Watch 4,28,299.99,8399.72,100
+10206,7/24/2024,Home Appliances,KitchenAid Stand Mixer,84,379.99,31919.16,100
+10207,7/25/2024,Clothing,Lululemon Wunder Under High-Rise Leggings,60,98,5880,100
+10208,7/26/2024,Books,The Great Alone by Kristin Hannah,25,16.99,424.75,100
+10209,7/27/2024,Beauty Products,Caudalie Vinoperfect Radiance Serum,23,79,1817,100
+10210,7/28/2024,Sports,Bose SoundLink Color Bluetooth Speaker II,76,129,9804,100
+10211,7/29/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,30,749.99,22499.7,100
+10212,7/30/2024,Home Appliances,Keurig K-Elite Coffee Maker,87,169.99,14789.13,100
+10213,7/31/2024,Clothing,Uniqlo Airism Seamless Boxer Briefs,34,9.9,336.6,100
+10214,8/1/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,15,10.99,164.85,100
+10215,8/2/2024,Beauty Products,L'Occitane Shea Butter Hand Cream,17,29,493,100
+10216,8/3/2024,Sports,YETI Tundra 65 Cooler,99,349.99,34649.01,100
+10217,8/4/2024,Electronics,Apple MacBook Pro 16-inch,73,2399,175127,100
+10218,8/5/2024,Home Appliances,iRobot Braava Jet M6,21,449.99,9449.79,100
+10219,8/6/2024,Clothing,Champion Reverse Weave Hoodie,100,49.99,4999,100
+10220,8/7/2024,Books,The Nightingale by Kristin Hannah,26,12.99,337.74,100
+10221,8/8/2024,Beauty Products,Tarte Shape Tape Concealer,27,27,729,100
+10222,8/9/2024,Sports,Garmin Forerunner 945,71,599.99,42599.29,100
+10223,8/10/2024,Electronics,Amazon Echo Dot (4th Gen),86,49.99,4299.14,100
+10224,8/11/2024,Home Appliances,Philips Sonicare DiamondClean Toothbrush,62,229.99,14259.38,100
+10225,8/12/2024,Clothing,Old Navy Mid-Rise Rockstar Super Skinny Jeans,70,44.99,3149.3,100
+10226,8/13/2024,Books,The Silent Patient by Alex Michaelides,88,26.99,2375.12,100
+10227,8/14/2024,Beauty Products,The Ordinary Caffeine Solution 5% + EGCG,56,6.7,375.2,100
+10228,8/15/2024,Sports,Fitbit Luxe,36,149.95,5398.2,100
+10229,8/16/2024,Electronics,Google Nest Wifi Router,36,169,6084,100
+10230,8/17/2024,Home Appliances,Anova Precision Oven,73,599,43727,100
+10231,8/18/2024,Clothing,Adidas Originals Trefoil Hoodie,71,64.99,4614.29,100
+10232,8/19/2024,Books,Dune by Frank Herbert,1,9.99,9.99,100
+10233,8/20/2024,Beauty Products,Fresh Sugar Lip Treatment,0,24,0,100
+10234,8/21/2024,Sports,Hydro Flask Standard Mouth Water Bottle,77,32.95,2537.15,100
+10235,8/22/2024,Electronics,Bose QuietComfort 35 II Wireless Headphones,18,299,5382,100
+10236,8/23/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,65,159.99,10399.35,100
+10237,8/24/2024,Clothing,Nike Air Force 1 Sneakers,83,90,7470,100
+10238,8/25/2024,Books,The Handmaid's Tale by Margaret Atwood,43,10.99,472.57,100
+10239,8/26/2024,Beauty Products,Sunday Riley Luna Sleeping Night Oil,97,55,5335,100
+10240,8/27/2024,Sports,Yeti Rambler 20 oz Tumbler,78,29.99,2339.22,100
